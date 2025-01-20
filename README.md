@@ -113,5 +113,5 @@ Below are different views of the Generate Ideas Page:
 </div>
 
 ### 4. Idea Suggestions
-![Idea Suggestions](./public/assets/Screenshot 2025-01-20 044947.png)
+![Idea Suggestions](./public/assets/Screenshot%202025-01-20%20044947.png)
 
