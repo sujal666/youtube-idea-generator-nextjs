@@ -89,7 +89,7 @@ VidGenie is a full-stack application tailored for YouTube content creators to ge
 ## 📸 Screenshots
 
 ### 1. Landing Page
-![Landing Page](public/assets/Screenshot 2025-01-20 043548.png)
+![Landing Page](./public/assets/Screenshot%202025-01-20%20043548.png)
 
 ### 2. Videos Page
 ![Videos Page](https://via.placeholder.com/800x400)
