@@ -92,7 +92,7 @@ VidGenie is a full-stack application tailored for YouTube content creators to ge
 ![Landing Page](./public/assets/Screenshot%202025-01-20%20043548.png)
 
 ### 2. Videos Page
-![Videos Page](./public/assets/Screenshot%202025-01-20%20043621.png),(./public/assets/Screenshot%202025-01-20%20043621.png)
+![Videos Page](./public/assets/Screenshot%202025-01-20%20043621.png)(./public/assets/Screenshot%202025-01-20%20043621.png)
 
 ### 3. Generate Ideas Page
 ![Generate Ideas Page](https://via.placeholder.com/800x400)
