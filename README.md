@@ -92,11 +92,26 @@ VidGenie is a full-stack application tailored for YouTube content creators to ge
 ![Landing Page](./public/assets/Screenshot%202025-01-20%20043548.png)
 
 ### 2. Videos Page
-![Videos Page](./public/assets/Screenshot%202025-01-20%20043621.png)(./public/assets/Screenshot%202025-01-20%20043621.png)
+Below are different views of the Videos Page:
+<div style="display: flex; gap: 10px;">
+    <img src="./public/assets/Screenshot 2025-01-20 043621.png" alt="Empty List" width="300">
+    <img src="./public/assets/Screenshot 2025-01-20 044729.png" alt="Scraped Videos" width="300">
+    <h1>Scraped Details </h1>
+    <img src="./public/assets/Screenshot 2025-01-20 044753.png" alt="Scraped Data Display" width="300">
+    <img src="./public/assets/Screenshot 2025-01-20 044811.png" alt="Scraped Data Display" width="300">
+    <img src="./public/assets/Screenshot 2025-01-20 044823.png" alt="Scraped Data Display" width="300">
+    <img src="./public/assets/Screenshot 2025-01-20 044823.png" alt="Scraped Data Display" width="300">
+</div>
 
 ### 3. Generate Ideas Page
-![Generate Ideas Page](https://via.placeholder.com/800x400)
+Below are different views of the Generate Ideas Page:
+<div style="display: flex; gap: 10px;">
+    <img src="./public/assets/Screenshot 2025-01-20 044849.png" alt="Empty List" width="300">
+    <img src="./public/assets/Screenshot 2025-01-20 044917.png" alt="Scraped Videos" width="300">
+    <h1>Generated Details </h1>
+    <img src="./public/assets/Screenshot 2025-01-20 044947.png" alt="Scraped Data Display" width="300">
+</div>
 
 ### 4. Idea Suggestions
-![Idea Suggestions](https://via.placeholder.com/800x400)
+![Idea Suggestions](./public/assets/Screenshot 2025-01-20 044947.png)
 
